@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Hydrology to be applied in Irrigation Scheduling System
 - 💞️ I’m looking to collaborate on Web applications
-- 📫 Direct message me on my socials to reach me
+- 📫 Mail me on ab.lopez.ph@gmail.com to reach me
 
 <!---
 Nakooya/Nakooya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
