@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nakooya
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Hydrology to be applied in Irrigation Scheduling System
+- 🌱 I’m currently MVC structure 
 - 💞️ I’m looking to collaborate on Web applications
 - 📫 E-Mail me on ab.lopez.ph@gmail.com to reach me
 
