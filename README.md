@@ -6,9 +6,9 @@
 - 📫 E-Mail me on ab.lopez.ph@gmail.com to reach me
 
 ## My Skill sets
-Here are some of the programming languages that I learned during my elementary years up to college years. 
+Here are some of the programming languages that I learned during my elementary years up to my college years. 
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,html,css,js,c,cs,cpp,bootstrap,py,qt,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,bootstrap,dotnet,c,cpp,css,py,js,matlab,html,qt)](https://skillicons.dev)
 
 ## Tools Used
 Here is a list of some IDEs and Hardware that I have used for developing applications.
