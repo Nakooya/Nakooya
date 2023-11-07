@@ -11,7 +11,7 @@ Here are the programming languages that I learned during my elementary years up 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,html,css,js,c,cs,cpp,bootstrap,py,qt,matlab)](https://skillicons.dev)
 
 ## Tools Used
-Here is a list of IDEs that I have used for developing applications.
+Here is a list of IDEs and Hardware that I have used for developing applications.
 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,raspberrypi,qt,postman,linux,github,figma,eclipse,bash)](https://skillicons.dev)
 
