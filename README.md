@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web applications
 - 📫 E-Mail me on ab.lopez.ph@gmail.com to reach me
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,html,css,js,c,cs,cpp)](https://skillicons.dev)
 
 <!---
 Nakooya/Nakooya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
