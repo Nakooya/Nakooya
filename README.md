@@ -8,12 +8,12 @@
 ## My Skill sets
 Here are some of the programming languages that I learned during my elementary years up to my college years. 
 
-[![My Skills](https://skillicons.dev/icons?i=cs,bootstrap,dotnet,c,cpp,css,py,js,matlab,html,qt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,bootstrap,dotnet,c,cpp,css,ts,py,js,matlab,gitlab,express,html,angular,git,qt,nodejs,)](https://skillicons.dev)
 
 ## Tools Used
 Here is a list of some IDEs and Hardware that I have used for developing applications.
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,raspberrypi,qt,postman,linux,github,figma,eclipse,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,mongodb,raspberrypi,qt,postman,linux,github,figma,eclipse,bash)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakooya&show_icons=true&theme=radical)
 
